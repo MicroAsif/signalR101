@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
 using signalR101.Interfaces;
@@ -11,14 +8,15 @@ namespace signalR101.Controllers
 {
     public class ProductController : Controller
     {
-        private readonly IProductRepository productRepository;
         private readonly IHubContext<SignalServer> context;
+        private readonly IProductRepository productRepository;
 
         public ProductController(IProductRepository productRepository, IHubContext<SignalServer> context)
         {
             this.productRepository = productRepository;
             this.context = context;
         }
+
         public IActionResult Index()
         {
             return View(productRepository.All());
@@ -46,6 +44,7 @@ namespace signalR101.Controllers
         {
             return View(productRepository.Find(id));
         }
+
         [HttpPost]
         public IActionResult EditProduct(Product model)
         {
