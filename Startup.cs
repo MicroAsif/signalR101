@@ -39,11 +39,13 @@ namespace signalR101
             services.AddTransient<IProductRepository, ProductRepository>();
 
             services.AddDbContext<AppDbContext>(options => 
-            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            options.UseMySql(
+                Configuration.GetConnectionString("DefaultConnection"),
+                ServerVersion.AutoDetect(Configuration.GetConnectionString("DefaultConnection"))));
 
             services.AddSignalR();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -62,18 +64,23 @@ namespace signalR101
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseRouting();
             app.UseCookiePolicy();
 
-            app.UseSignalR(config =>
-            {
-                config.MapHub<SignalServer>("/signalServer");
-            });
+            //app.UseSignalR(config =>
+            //{
+            //    config.MapHub<SignalServer>("/signalServer");
+            //});
 
-            app.UseMvc(routes =>
+            app.UseEndpoints(routes =>
             {
-                routes.MapRoute(
+                routes.MapControllerRoute(
+                
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                routes.MapHub<SignalServer>("/signalServer");
+
             });
         }
     }

@@ -31,3 +31,40 @@ C:\Users\microasif\source\repos\signalR101\obj\Debug\netcoreapp2.2\signalR101.cs
 C:\Users\microasif\source\repos\signalR101\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
 C:\Users\microasif\source\repos\signalR101\obj\Debug\netcoreapp2.2\Razor\Views\Product\AddProduct.g.cshtml.cs
 C:\Users\microasif\source\repos\signalR101\obj\Debug\netcoreapp2.2\Razor\Views\Product\EditProduct.g.cshtml.cs
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\appsettings.json
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\signalR101.deps.json
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\signalR101.runtimeconfig.json
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\signalR101.runtimeconfig.dev.json
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\signalR101.dll
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\signalR101.pdb
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\signalR101.Views.dll
+D:\AS Lab\Web\_TEST\signalR101-master\bin\Debug\netcoreapp2.2\signalR101.Views.pdb
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.csproj.AssemblyReference.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.GeneratedMSBuildEditorConfig.editorconfig
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.AssemblyInfoInputs.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.AssemblyInfo.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.csproj.CoreCompileInputs.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.RazorAssemblyInfo.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.RazorAssemblyInfo.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.TagHelpers.input.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.TagHelpers.output.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.RazorCoreGenerate.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Product\AddProduct.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Product\EditProduct.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.RazorTargetAssemblyInfo.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.RazorTargetAssemblyInfo.cs
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.Views.pdb
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.dll
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.pdb
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.genruntimeconfig.cache
+D:\AS Lab\Web\_TEST\signalR101-master\obj\Debug\netcoreapp2.2\signalR101.csproj.CopyComplete
